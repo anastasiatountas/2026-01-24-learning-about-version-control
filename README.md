@@ -2,4 +2,4 @@
 Learning about Version Control
 
 Attempting to edit the file through the web interface Success!
-Solving merge conflicts is sooooooo hard!
+Solving merge conflicts takes conscious effort, but I can do it!
